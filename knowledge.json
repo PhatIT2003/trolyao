@@ -1,0 +1,610 @@
+{
+    "conversations": [
+        {
+            "input": "xin chào",
+            "response": "Chào bạn! Tôi là trợ lý ảo."
+        },
+        {
+            "input": "bạn khỏe không",
+            "response": "Tôi rất khỏe, cảm ơn bạn!"
+        },
+        {
+            "input": "tên bạn là gì",
+            "response": "Tôi là trợ lý ảo tự học."
+        },
+        {
+            "input": "bạn là ai",
+            "response": "tôi là AI, trí tệ nhân tạo được tạo ra bởi phat IT 2003 vào ngày 16/12/2024"
+        },
+        {
+            "input": "xin chào",
+            "response": "Chào bạn! Tôi là trợ lý ảo."
+        },
+        {
+            "input": "bạn khỏe không",
+            "response": "Tôi rất khỏe, cảm ơn bạn!"
+        },
+        {
+            "input": "tên bạn là gì",
+            "response": "Tôi là trợ lý ảo tự học."
+        },
+        {
+            "input": "xin chào",
+            "response": "Chào bạn! Tôi là trợ lý ảo."
+        },
+        {
+            "input": "bạn khỏe không",
+            "response": "Tôi rất khỏe, cảm ơn bạn!"
+        },
+        {
+            "input": "tên bạn là gì",
+            "response": "Tôi là trợ lý ảo tự học."
+        },
+        {
+            "input": "xin chào",
+            "response": "Chào bạn! Tôi là trợ lý ảo."
+        },
+        {
+            "input": "bạn khỏe không",
+            "response": "Tôi rất khỏe, cảm ơn bạn!"
+        },
+        {
+            "input": "tên bạn là gì",
+            "response": "Tôi là trợ lý ảo tự học."
+        },
+        {
+            "input": "hiện tại ai là tổng thống mỹ",
+            "response": "Hiện tại, tổng thống của Mỹ vẫn là ông Joe Biden, đại diện của Đảng Dân chủ. Tuy nhiên, trong cuộc bầu cử tổng thống năm 2024, Donald Trump, đại diện của Đảng Cộng hòa, đã chiến thắng và dự kiến sẽ nhậm chức vào ngày 20 tháng 1 năm 2025​"
+        },
+        {
+            "input": "xin chào",
+            "response": "Chào bạn! Tôi là trợ lý ảo."
+        },
+        {
+            "input": "bạn khỏe không",
+            "response": "Tôi rất khỏe, cảm ơn bạn!"
+        },
+        {
+            "input": "tên bạn là gì",
+            "response": "Tôi là trợ lý ảo tự học."
+        },
+        {
+            "input": "xin chào",
+            "response": "Chào bạn! Tôi là trợ lý ảo."
+        },
+        {
+            "input": "bạn khỏe không",
+            "response": "Tôi rất khỏe, cảm ơn bạn!"
+        },
+        {
+            "input": "tên bạn là gì",
+            "response": "Tôi là trợ lý ảo tự học."
+        },
+        {
+            "input": "tôi muốn biết Bạn: Elon Musk",
+            "response": " Elon Musk là một kỹ sư, doanh nhân và nhà phát minh người Mỹ gốc Nam Phi. Ông là người sáng lập của SpaceX, đồng sáng lập của Tesla, Inc., và nhiều công ty khác..."
+        },
+        {
+            "input": "blockchain là gì",
+            "response": " Blockchain là một hệ thống cơ sở dữ liệu phân tán lưu trữ thông tin trong các khối dữ liệu được liên kết với nhau..."
+        },
+        {
+            "input": "xin chào",
+            "response": "Chào bạn! Tôi là trợ lý ảo."
+        },
+        {
+            "input": "bạn khỏe không",
+            "response": "Tôi rất khỏe, cảm ơn bạn!"
+        },
+        {
+            "input": "tên bạn là gì",
+            "response": "Tôi là trợ lý ảo tự học."
+        },
+        {
+            "input": "xin chào",
+            "response": "Chào bạn! Tôi là trợ lý ảo."
+        },
+        {
+            "input": "bạn khỏe không",
+            "response": "Tôi rất khỏe, cảm ơn bạn!"
+        },
+        {
+            "input": "tên bạn là gì",
+            "response": "Tôi là trợ lý ảo tự học."
+        },
+        {
+            "input": "xin chào",
+            "response": "Chào bạn! Tôi là trợ lý ảo."
+        },
+        {
+            "input": "bạn khỏe không",
+            "response": "Tôi rất khỏe, cảm ơn bạn!"
+        },
+        {
+            "input": "tên bạn là gì",
+            "response": "Tôi là trợ lý ảo tự học."
+        },
+        {
+            "input": "xin chào",
+            "response": "Chào bạn! Tôi là trợ lý ảo."
+        },
+        {
+            "input": "bạn khỏe không",
+            "response": "Tôi rất khỏe, cảm ơn bạn!"
+        },
+        {
+            "input": "tên bạn là gì",
+            "response": "Tôi là trợ lý ảo tự học."
+        },
+        {
+            "input": "xin chào",
+            "response": "Chào bạn! Tôi là trợ lý ảo."
+        },
+        {
+            "input": "bạn khỏe không",
+            "response": "Tôi rất khỏe, cảm ơn bạn!"
+        },
+        {
+            "input": "tên bạn là gì",
+            "response": "Tôi là trợ lý ảo tự học."
+        },
+        {
+            "input": "xin chào",
+            "response": "Chào bạn! Tôi là trợ lý ảo."
+        },
+        {
+            "input": "bạn khỏe không",
+            "response": "Tôi rất khỏe, cảm ơn bạn!"
+        },
+        {
+            "input": "tên bạn là gì",
+            "response": "Tôi là trợ lý ảo tự học."
+        },
+        {
+            "input": "xin chào",
+            "response": "Chào bạn! Tôi là trợ lý ảo."
+        },
+        {
+            "input": "bạn khỏe không",
+            "response": "Tôi rất khỏe, cảm ơn bạn!"
+        },
+        {
+            "input": "tên bạn là gì",
+            "response": "Tôi là trợ lý ảo tự học."
+        },
+        {
+            "input": "xin chào",
+            "response": "Chào bạn! Tôi là trợ lý ảo."
+        },
+        {
+            "input": "bạn khỏe không",
+            "response": "Tôi rất khỏe, cảm ơn bạn!"
+        },
+        {
+            "input": "tên bạn là gì",
+            "response": "Tôi là trợ lý ảo tự học."
+        },
+        {
+            "input": "xin chào",
+            "response": "Chào bạn! Tôi là trợ lý ảo."
+        },
+        {
+            "input": "bạn khỏe không",
+            "response": "Tôi rất khỏe, cảm ơn bạn!"
+        },
+        {
+            "input": "tên bạn là gì",
+            "response": "Tôi là trợ lý ảo tự học."
+        },
+        {
+            "input": "Đặc điểm chính của Blockchain:",
+            "response": "Phi tập trung: Không giống như các hệ thống truyền thống (như ngân hàng hay chính phủ), blockchain hoạt động trên mạng peer-to-peer (các nút mạng ngang hàng) mà không có một cơ quan trung ương nào kiểm soát."
+        },
+        {
+            "input": "",
+            "response": "Sổ cái phân tán: Blockchain được duy trì bởi nhiều người tham gia (nút mạng) trên toàn bộ mạng lưới. Mỗi nút lưu giữ một bản sao của toàn bộ blockchain, đảm bảo tính minh bạch và sao lưu."
+        },
+        {
+            "input": "Cách thức hoạt động của Blockchain:",
+            "response": "Khởi tạo giao dịch: Người dùng bắt đầu một giao dịch (ví dụ: chuyển tiền điện tử) và truyền tải giao dịch này tới mạng lưới."
+        },
+        {
+            "input": "Ứng dụng của Blockchain:",
+            "response": "Tiền điện tử: Blockchain là công nghệ nền tảng của các đồng tiền điện tử như Bitcoin, Ethereum, và nhiều loại khác."
+        },
+        {
+            "input": "Quản lý chuỗi cung ứng: Blockchain giúp theo dõi nguồn gốc và quá trình vận chuyển hàng hóa, đảm bảo tính minh bạch và giảm gian lận.",
+            "response": "Hợp đồng thông minh: Được sử dụng trong nhiều ngành công nghiệp để tự động hóa và thực thi các điều khoản hợp đồng."
+        },
+        {
+            "input": "Hệ thống bỏ phiếu: Blockchain có thể giúp đảm bảo bỏ phiếu an toàn, minh bạch và không thể giả mạo.",
+            "response": "Y tế: Blockchain có thể được sử dụng để lưu trữ và chia sẻ dữ liệu y tế một cách an toàn."
+        },
+        {
+            "input": "Tiền điện tử: Blockchain là công nghệ nền tảng của các đồng tiền điện tử như Bitcoin, Ethereum, và nhiều loại khác.",
+            "response": "Quản lý chuỗi cung ứng: Blockchain giúp theo dõi nguồn gốc và quá trình vận chuyển hàng hóa, đảm bảo tính minh bạch và giảm gian lận."
+        },
+        {
+            "input": "Hợp đồng thông minh: Được sử dụng trong nhiều ngành công nghiệp để tự động hóa và thực thi các điều khoản hợp đồng.",
+            "response": "Hệ thống bỏ phiếu: Blockchain có thể giúp đảm bảo bỏ phiếu an toàn, minh bạch và không thể giả mạo."
+        },
+        {
+            "input": "Y tế: Blockchain có thể được sử dụng để lưu trữ và chia sẻ dữ liệu y tế một cách an toàn.",
+            "response": "Blockchain có tiềm năng vượt ra ngoài tiền điện tử, cung cấp các giải pháp an toàn và minh bạch trong nhiều ngành công nghiệp khác nhau."
+        },
+        {
+            "input": "blockchain",
+            "response": "Blockchain (chuỗi khối) là một công nghệ sổ cái phân tán và phi tập trung, giúp ghi lại các giao dịch trên nhiều máy tính một cách an toàn, minh bạch và không thể thay đổi."
+        },
+        {
+            "input": "xin chào",
+            "response": "Chào bạn! Tôi là trợ lý ảo."
+        },
+        {
+            "input": "bạn khỏe không",
+            "response": "Tôi rất khỏe, cảm ơn bạn!"
+        },
+        {
+            "input": "tên bạn là gì",
+            "response": "Tôi là trợ lý ảo tự học."
+        },
+        {
+            "input": "hello",
+            "response": "chào"
+        },
+        {
+            "input": "xin chào",
+            "response": "Chào bạn! Tôi là trợ lý ảo."
+        },
+        {
+            "input": "bạn khỏe không",
+            "response": "Tôi rất khỏe, cảm ơn bạn!"
+        },
+        {
+            "input": "tên bạn là gì",
+            "response": "Tôi là trợ lý ảo tự học."
+        },
+        {
+            "input": "xin chào",
+            "response": "Chào bạn! Tôi là trợ lý ảo."
+        },
+        {
+            "input": "bạn khỏe không",
+            "response": "Tôi rất khỏe, cảm ơn bạn!"
+        },
+        {
+            "input": "tên bạn là gì",
+            "response": "Tôi là trợ lý ảo tự học."
+        },
+        {
+            "input": "nhà sáng lập facebook là ai",
+            "response": "Mark Elliot Zuckerberg (sinh ngày 14 tháng 5 năm 1984) là nhà lập trình máy tính người Mỹ kiêm doanh nhân mảng công nghệ Internet1. Ông là người sáng lập Facebook cùng với các sinh viên Đại học Harvard và bạn cùng phòng2. Ông sinh tại thành phố New York, Hoa Kỳ3."
+        },
+        {
+            "input": "xin chào",
+            "response": "Chào bạn! Tôi là trợ lý ảo."
+        },
+        {
+            "input": "bạn khỏe không",
+            "response": "Tôi rất khỏe, cảm ơn bạn!"
+        },
+        {
+            "input": "tên bạn là gì",
+            "response": "Tôi là trợ lý ảo tự học."
+        },
+        {
+            "input": "nhà sáng lập facebook",
+            "response": "Mark Zuckerberg là nhà sáng lập Facebook."
+        },
+        {
+            "input": "nhà sáng lập apple",
+            "response": "Steve Jobs và Steve Wozniak là những nhà sáng lập Apple."
+        },
+        {
+            "input": "xin chào",
+            "response": "Chào bạn! Tôi là trợ lý ảo."
+        },
+        {
+            "input": "bạn khỏe không",
+            "response": "Tôi rất khỏe, cảm ơn bạn!"
+        },
+        {
+            "input": "tên bạn là gì",
+            "response": "Tôi là trợ lý ảo tự học."
+        },
+        {
+            "input": "nhà sáng lập facebook",
+            "response": "Mark Zuckerberg là nhà sáng lập Facebook."
+        },
+        {
+            "input": "nhà sáng lập apple",
+            "response": "Steve Jobs và Steve Wozniak là những nhà sáng lập Apple."
+        },
+        {
+            "input": "xin chào",
+            "response": "Chào bạn! Tôi là trợ lý ảo."
+        },
+        {
+            "input": "bạn khỏe không",
+            "response": "Tôi rất khỏe, cảm ơn bạn!"
+        },
+        {
+            "input": "tên bạn là gì",
+            "response": "Tôi là trợ lý ảo tự học."
+        },
+        {
+            "input": "nhà sáng lập facebook",
+            "response": "Mark Zuckerberg là nhà sáng lập Facebook."
+        },
+        {
+            "input": "nhà sáng lập apple",
+            "response": "Steve Jobs và Steve Wozniak là những nhà sáng lập Apple."
+        },
+        {
+            "input": "xin chào",
+            "response": "Chào bạn! Tôi là trợ lý ảo."
+        },
+        {
+            "input": "bạn khỏe không",
+            "response": "Tôi rất khỏe, cảm ơn bạn!"
+        },
+        {
+            "input": "tên bạn là gì",
+            "response": "Tôi là trợ lý ảo tự học."
+        },
+        {
+            "input": "nhà sáng lập facebook",
+            "response": "Mark Zuckerberg là nhà sáng lập Facebook."
+        },
+        {
+            "input": "nhà sáng lập apple",
+            "response": "Steve Jobs và Steve Wozniak là những nhà sáng lập Apple."
+        },
+        {
+            "input": "mấy giờ rồi",
+            "response": "Tôi có thể giúp bạn biết giờ hiện tại."
+        },
+        {
+            "input": "bây giờ là mấy giờ",
+            "response": "Tôi có thể giúp bạn biết giờ hiện tại."
+        },
+        {
+            "input": "tầm quan trọng của ai trong cuộc sống",
+            "response": "Là một ngành học mới về công nghệ máy tính nhưng AI đã nhanh chóng chứng minh đây là bước đột phá lớn về công nghệ với những ứng dụng thiết thực trong cuộc sống"
+        },
+        {
+            "input": "xin chào",
+            "response": "Chào bạn! Tôi là trợ lý ảo."
+        },
+        {
+            "input": "bạn khỏe không",
+            "response": "Tôi rất khỏe, cảm ơn bạn!"
+        },
+        {
+            "input": "tên bạn là gì",
+            "response": "Tôi là trợ lý ảo tự học."
+        },
+        {
+            "input": "nhà sáng lập facebook",
+            "response": "Mark Zuckerberg là nhà sáng lập Facebook."
+        },
+        {
+            "input": "nhà sáng lập apple",
+            "response": "Steve Jobs và Steve Wozniak là những nhà sáng lập Apple."
+        },
+        {
+            "input": "mấy giờ rồi",
+            "response": "Tôi có thể giúp bạn biết giờ hiện tại."
+        },
+        {
+            "input": "bây giờ là mấy giờ",
+            "response": "Tôi có thể giúp bạn biết giờ hiện tại."
+        },
+        {
+            "input": "xin chào",
+            "response": "Chào bạn! Tôi là trợ lý ảo."
+        },
+        {
+            "input": "bạn khỏe không",
+            "response": "Tôi rất khỏe, cảm ơn bạn!"
+        },
+        {
+            "input": "tên bạn là gì",
+            "response": "Tôi là trợ lý ảo tự học."
+        },
+        {
+            "input": "nhà sáng lập facebook",
+            "response": "Mark Zuckerberg là nhà sáng lập Facebook."
+        },
+        {
+            "input": "nhà sáng lập apple",
+            "response": "Steve Jobs và Steve Wozniak là những nhà sáng lập Apple."
+        },
+        {
+            "input": "mấy giờ rồi",
+            "response": "Tôi có thể giúp bạn biết giờ hiện tại."
+        },
+        {
+            "input": "bây giờ là mấy giờ",
+            "response": "Tôi có thể giúp bạn biết giờ hiện tại."
+        },
+        {
+            "input": "xin chào",
+            "response": "Chào bạn! Tôi là trợ lý ảo."
+        },
+        {
+            "input": "bạn khỏe không",
+            "response": "Tôi rất khỏe, cảm ơn bạn!"
+        },
+        {
+            "input": "tên bạn là gì",
+            "response": "Tôi là trợ lý ảo tự học."
+        },
+        {
+            "input": "nhà sáng lập facebook",
+            "response": "Mark Zuckerberg là nhà sáng lập Facebook."
+        },
+        {
+            "input": "nhà sáng lập apple",
+            "response": "Steve Jobs và Steve Wozniak là những nhà sáng lập Apple."
+        },
+        {
+            "input": "mấy giờ rồi",
+            "response": "Tôi có thể giúp bạn biết giờ hiện tại."
+        },
+        {
+            "input": "bây giờ là mấy giờ",
+            "response": "Tôi có thể giúp bạn biết giờ hiện tại."
+        },
+        {
+            "input": "ai là tổng thống việt nam?",
+            "response": "Nguyễn Xuân Phúc là tổng thống Việt Nam"
+        },
+        {
+            "input": "xin chào",
+            "response": "Chào bạn! Tôi là trợ lý ảo."
+        },
+        {
+            "input": "bạn khỏe không",
+            "response": "Tôi rất khỏe, cảm ơn bạn!"
+        },
+        {
+            "input": "tên bạn là gì",
+            "response": "Tôi là trợ lý ảo tự học."
+        },
+        {
+            "input": "nhà sáng lập facebook",
+            "response": "Mark Zuckerberg là nhà sáng lập Facebook."
+        },
+        {
+            "input": "nhà sáng lập apple",
+            "response": "Steve Jobs và Steve Wozniak là những nhà sáng lập Apple."
+        },
+        {
+            "input": "mấy giờ rồi",
+            "response": "Tôi có thể giúp bạn biết giờ hiện tại."
+        },
+        {
+            "input": "bây giờ là mấy giờ",
+            "response": "Tôi có thể giúp bạn biết giờ hiện tại."
+        },
+        {
+            "input": "hi",
+            "response": "xin\\"
+        },
+        {
+            "input": "xin chào",
+            "response": "Chào bạn! Tôi là trợ lý ảo."
+        },
+        {
+            "input": "bạn khỏe không",
+            "response": "Tôi rất khỏe, cảm ơn bạn!"
+        },
+        {
+            "input": "tên bạn là gì",
+            "response": "Tôi là trợ lý ảo tự học."
+        },
+        {
+            "input": "nhà sáng lập facebook",
+            "response": "Mark Zuckerberg là nhà sáng lập Facebook."
+        },
+        {
+            "input": "nhà sáng lập apple",
+            "response": "Steve Jobs và Steve Wozniak là những nhà sáng lập Apple."
+        },
+        {
+            "input": "mấy giờ rồi",
+            "response": "Tôi có thể giúp bạn biết giờ hiện tại."
+        },
+        {
+            "input": "bây giờ là mấy giờ",
+            "response": "Tôi có thể giúp bạn biết giờ hiện tại."
+        },
+        {
+            "input": "hi",
+            "response": "xin chào"
+        }
+    ],
+    "responses": {
+        "xin chào": [
+            "Chào bạn! Tôi là trợ lý ảo."
+        ],
+        "bạn khỏe không": [
+            "Tôi rất khỏe, cảm ơn bạn!"
+        ],
+        "tên bạn là gì": [
+            "Tôi là trợ lý ảo tự học."
+        ],
+        "bạn là ai": [
+            "tôi là AI, trí tệ nhân tạo được tạo ra bởi phat IT 2003 vào ngày 16/12/2024"
+        ],
+        "hiện tại ai là tổng thống mỹ": [
+            "Hiện tại, tổng thống của Mỹ vẫn là ông Joe Biden, đại diện của Đảng Dân chủ. Tuy nhiên, trong cuộc bầu cử tổng thống năm 2024, Donald Trump, đại diện của Đảng Cộng hòa, đã chiến thắng và dự kiến sẽ nhậm chức vào ngày 20 tháng 1 năm 2025​"
+        ],
+        "tôi  muốn biết Bạn: Elon Musk": [
+            "Elon Musk là một kỹ sư, doanh nhân và nhà phát minh người Mỹ gốc Nam Phi. Ông là người sáng lập của SpaceX, đồng sáng lập của Tesla, Inc., và nhiều công ty khác..."
+        ],
+        "Bạn: blockchain là gì": [
+            "Blockchain là một hệ thống cơ sở dữ liệu phân tán lưu trữ thông tin trong các khối dữ liệu được liên kết với nhau..."
+        ],
+        "Đặc điểm chính của Blockchain:": [
+            "Phi tập trung: Không giống như các hệ thống truyền thống (như ngân hàng hay chính phủ), blockchain hoạt động trên mạng peer-to-peer (các nút mạng ngang hàng) mà không có một cơ quan trung ương nào kiểm soát."
+        ],
+        "": [
+            "Sổ cái phân tán: Blockchain được duy trì bởi nhiều người tham gia (nút mạng) trên toàn bộ mạng lưới. Mỗi nút lưu giữ một bản sao của toàn bộ blockchain, đảm bảo tính minh bạch và sao lưu."
+        ],
+        "Cách thức hoạt động của Blockchain:": [
+            "Khởi tạo giao dịch: Người dùng bắt đầu một giao dịch (ví dụ: chuyển tiền điện tử) và truyền tải giao dịch này tới mạng lưới."
+        ],
+        "Ứng dụng của Blockchain:": [
+            "Tiền điện tử: Blockchain là công nghệ nền tảng của các đồng tiền điện tử như Bitcoin, Ethereum, và nhiều loại khác."
+        ],
+        "Quản lý chuỗi cung ứng: Blockchain giúp theo dõi nguồn gốc và quá trình vận chuyển hàng hóa, đảm bảo tính minh bạch và giảm gian lận.": [
+            "Hợp đồng thông minh: Được sử dụng trong nhiều ngành công nghiệp để tự động hóa và thực thi các điều khoản hợp đồng."
+        ],
+        "Hệ thống bỏ phiếu: Blockchain có thể giúp đảm bảo bỏ phiếu an toàn, minh bạch và không thể giả mạo.": [
+            "Y tế: Blockchain có thể được sử dụng để lưu trữ và chia sẻ dữ liệu y tế một cách an toàn."
+        ],
+        "Tiền điện tử: Blockchain là công nghệ nền tảng của các đồng tiền điện tử như Bitcoin, Ethereum, và nhiều loại khác.": [
+            "Quản lý chuỗi cung ứng: Blockchain giúp theo dõi nguồn gốc và quá trình vận chuyển hàng hóa, đảm bảo tính minh bạch và giảm gian lận."
+        ],
+        "Hợp đồng thông minh: Được sử dụng trong nhiều ngành công nghiệp để tự động hóa và thực thi các điều khoản hợp đồng.": [
+            "Hệ thống bỏ phiếu: Blockchain có thể giúp đảm bảo bỏ phiếu an toàn, minh bạch và không thể giả mạo."
+        ],
+        "Y tế: Blockchain có thể được sử dụng để lưu trữ và chia sẻ dữ liệu y tế một cách an toàn.": [
+            "Blockchain có tiềm năng vượt ra ngoài tiền điện tử, cung cấp các giải pháp an toàn và minh bạch trong nhiều ngành công nghiệp khác nhau."
+        ],
+        "blockchain": [
+            "Blockchain (chuỗi khối) là một công nghệ sổ cái phân tán và phi tập trung, giúp ghi lại các giao dịch trên nhiều máy tính một cách an toàn, minh bạch và không thể thay đổi."
+        ],
+        "hello": [
+            "chào"
+        ],
+        "nhà sáng lập facebook là ai": [
+            "Mark Elliot Zuckerberg (sinh ngày 14 tháng 5 năm 1984) là nhà lập trình máy tính người Mỹ kiêm doanh nhân mảng công nghệ Internet1. Ông là người sáng lập Facebook cùng với các sinh viên Đại học Harvard và bạn cùng phòng2. Ông sinh tại thành phố New York, Hoa Kỳ3."
+        ],
+        "nhà sáng lập facebook": [
+            "Mark Zuckerberg là nhà sáng lập Facebook."
+        ],
+        "nhà sáng lập apple": [
+            "Steve Jobs và Steve Wozniak là những nhà sáng lập Apple."
+        ],
+        "mấy giờ rồi": [
+            "Tôi có thể giúp bạn biết giờ hiện tại."
+        ],
+        "bây giờ là mấy giờ": [
+            "Tôi có thể giúp bạn biết giờ hiện tại."
+        ],
+        "tầm quan trọng của ai trong cuộc sống": [
+            "Là một ngành học mới về công nghệ máy tính nhưng AI đã nhanh chóng chứng minh đây là bước đột phá lớn về công nghệ với những ứng dụng thiết thực trong cuộc sống"
+        ],
+        "ai là tổng thống việt nam?": [
+            "Nguyễn Xuân Phúc là tổng thống Việt Nam"
+        ],
+        "hi": [
+            "xin chào"
+        ]
+    },
+    "learned_patterns": [],
+    "wikipedia_cache": {}
+}
